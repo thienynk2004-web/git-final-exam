@@ -14,3 +14,9 @@ Kỹ năng:
 - chơi game
 - chạy
 - đá bóng
+Kế hoạch học tập:
+- Hoàn thành tất cả bài tập Git đúng hạn.
+- Học cách sử dụng Git nâng cao: branch, merge, rebase.
+- Tham gia dự án nhóm để thực hành Git.
+- Rèn luyện kỹ năng viết commit message rõ ràng.
+- Chuẩn bị cho kỳ thi thực hành cuối kỳ về quản lý mã nguồn.

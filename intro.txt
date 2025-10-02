@@ -1,16 +1,16 @@
 Giới thiệu cá nhân:
-Tôi tên là ...
-Sinh viên lớp ...
-Tôi học tại ...
-Mục tiêu của tôi là ...
-Tôi mong muốn ...
+Tôi tên là Yếp Nguyễn Kim Thiên, hiện đang là sinh viên năm 4.
+Tôi đang theo học chuyên ngành Công nghệ Thông tin.
+Niềm đam mê của tôi là tìm hiểu về lập trình và bảo mật hệ thống.
+Tôi luôn nỗ lực phát triển bản thân thông qua các dự án và bài tập thực hành.
+Mục tiêu của tôi là trở thành một kỹ sư phần mềm giỏi trong tương lai.
 
 Sở thích:
-- Đọc sách
-- Nghe nhạc
-- Chơi thể thao
+- chơi game
+- Chơi thể thao, đặc biệt là bóng đá
+- Du lịch khám phá những vùng đất mới
 
 Kỹ năng:
-- Lập trình Python
-- Làm việc nhóm
-- Thuyết trình
+- chơi game
+- chạy
+- đá bóng

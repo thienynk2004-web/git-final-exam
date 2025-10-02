@@ -1,0 +1,16 @@
+Giới thiệu cá nhân:
+Tôi tên là ...
+Sinh viên lớp ...
+Tôi học tại ...
+Mục tiêu của tôi là ...
+Tôi mong muốn ...
+
+Sở thích:
+- Đọc sách
+- Nghe nhạc
+- Chơi thể thao
+
+Kỹ năng:
+- Lập trình Python
+- Làm việc nhóm
+- Thuyết trình

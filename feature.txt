@@ -1,0 +1,5 @@
+Tính năng: Quản lý lịch học tập tự động.
+- Người dùng có thể nhập môn học và thời gian.
+- Hệ thống tự động tạo lịch học trong tuần.
+- Cho phép xuất lịch học ra file PDF.
+- Gửi thông báo nhắc nhở học tập qua email.

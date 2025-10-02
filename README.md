@@ -1,0 +1,1 @@
+# Git Final Exam\n\n- Họ tên: Yếp Nguyễn Kim Thiên\n- MSSV: 220661\n- Ngày làm bài: 10/2/2004\n\n## Mục tiêu\n- Nắm vững thao tác cơ bản của Git và GitHub.\n- Biết cách quản lý phiên bản code và hợp tác làm việc qua GitHub.\n- Áp dụng Git vào thực tế trong học tập và công việc.
